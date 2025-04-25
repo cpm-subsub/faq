@@ -81,3 +81,17 @@ body {
 .more-faq:hover {
     background: #3da163;
 }
+
+.notice-box {
+  max-width: 700px;
+  margin: 20px auto;
+  padding: 14px 20px;
+  background: rgba(255, 255, 255, 0.75);
+  border-radius: 14px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.06);
+  backdrop-filter: blur(6px);
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  color: #222;
+}
